@@ -18,5 +18,6 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B"
-  }
+  },
+  "i18next.i18nPaths": "/Users/ibrahim.a/dev/theme-raed-dev/src/locales"
 }
